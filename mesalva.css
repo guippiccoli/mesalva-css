@@ -8791,10 +8791,11 @@ h6 small,
   background: no-repeat left top;
   background-size: 100%;
 }
-.profile-menu > span .profile-pic {
+.profile-pic {
   padding: 12px;
+  text-align: center;
 }
-.profile-menu > span .profile-pic img {
+.profile-pic img {
   width: 47px;
   height: 47px;
   border-radius: 50%;
